@@ -13,6 +13,8 @@
     - [PyPi](https://pypi.python.org/pypi/virtualenv) - [code](https://github.com/pypa/virtualenv) - [doc](https://virtualenv.pypa.io/en/latest/)
 - virtualenvwrapper - manages projects and virtual environments
     - [PyPi](https://pypi.python.org/pypi/virtualenvwrapper) - [code](https://bitbucket.org/dhellmann/virtualenvwrapper/overview) - [doc](http://virtualenvwrapper.readthedocs.org/en/latest/)
+- pew - Python Env Wrapper
+    - [PyPi](https://pypi.python.org/pypi/pew) - [code](https://github.com/berdario/pew)
 
 ## Code quality
 ### Static Analysis
@@ -40,6 +42,16 @@
     - [PyPi](https://pypi.python.org/pypi/paramiko) - [code](https://github.com/paramiko/paramiko/) - [doc](http://docs.paramiko.org/en/1.15/)
 - Requests
     - [PyPi](https://pypi.python.org/pypi/requests) - [code](https://github.com/kennethreitz/requests) - [doc](http://docs.python-requests.org/en/latest/)
+
+### Science
+- IPython - interactive Python shell
+    - [PyPi](https://pypi.python.org/pypi/ipython) - [code](https://github.com/ipython/ipython) - [doc](http://ipython.readthedocs.org/en/stable/)
+- Jupyter Notebook (formerly IPython Notebook)
+    - [PyPi](https://pypi.python.org/pypi/jupyter) - [code](https://github.com/jupyter) - [doc](https://jupyter.readthedocs.org/en/latest/)
+- Numpy - N-dimensional array manipulation
+    - [PyPi](https://pypi.python.org/pypi/numpy) - [code](http://sourceforge.net/projects/numpy/files/NumPy/) - [doc](http://docs.scipy.org/doc/numpy/)
+- Scipy - mathematics, science, and engineering
+    - [PyPi](https://pypi.python.org/pypi/scipy) - [code](http://sourceforge.net/projects/scipy/files/scipy/) - [doc](http://docs.scipy.org/doc/scipy/reference/)
 
 ### SCM
 - Dulwich - native implementation of Git in Python
