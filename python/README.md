@@ -40,8 +40,18 @@
 - GitPython - Git wrapper ([PyPi](https://pypi.python.org/pypi/GitPython) - [code](https://github.com/gitpython-developers/GitPython) - [doc](http://gitpython.readthedocs.org/en/stable/))
     - note: the documentation is _very scarce_, delving into the code is required to understand object relationship
 
+### Service management
+- [Supervisor](http://supervisord.org/) - A process control system
+
 ### Templating
 - Jinja2 ([PyPi](https://pypi.python.org/pypi/Jinja2) - [code](https://github.com/mitsuhiko/jinja2) - [doc](http://jinja.pocoo.org/docs/dev/))
 
 ### Web
+- [Isso](http://posativ.org/isso/) - A commenting server
 - [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
+
+### WSGI
+- [Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines
+- [Flask](http://flask.pocoo.org/) - A microframework based on Werkzeug, Jinja 2 and good intentions
+- [Gunicorn](http://docs.gunicorn.org/en/latest/) - WSGI server
+- [Pylons](http://www.pylonsproject.org/) - [Pyramid](http://www.pylonsproject.org/projects/pyramid/about)
