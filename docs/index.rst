@@ -46,3 +46,5 @@ An assortment of notes and utilities for software development and systems admini
    sysadmin/apt
    sysadmin/filesystem
    sysadmin/processes
+   sysadmin/hw_serial
+   sysadmin/hw_udev
