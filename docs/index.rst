@@ -23,6 +23,7 @@ An assortment of notes and utilities for software development and systems admini
    linux/apt
    linux/environment
    linux/filesystem
+   linux/networking
    linux/processes
    linux/hw_serial
    linux/hw_udev

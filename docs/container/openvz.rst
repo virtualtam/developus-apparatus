@@ -29,7 +29,7 @@ mkvztpl.sh
 
 Creates an OpenVZ template from an existing container instance.
 
-.. literalinclude:: ../scripts/mkvztpl.sh
+.. literalinclude:: ../../scripts/mkvztpl.sh
    :language: bash
    :caption: mkvztpl.sh
 
