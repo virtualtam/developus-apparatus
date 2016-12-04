@@ -1,0 +1,2 @@
+-r docs.txt
+tox==2.5.0
