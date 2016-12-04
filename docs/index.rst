@@ -9,14 +9,6 @@ An assortment of notes and utilities for software development and systems admini
 
 .. toctree::
    :maxdepth: 1
-   :caption: Programming
-
-   java
-   php
-   python
-
-.. toctree::
-   :maxdepth: 1
    :caption: Community & Collaboration
 
    continuous_delivery
@@ -28,23 +20,26 @@ An assortment of notes and utilities for software development and systems admini
    :maxdepth: 1
    :caption: Linux
 
-   environment
-   shell
+   linux/apt
+   linux/environment
+   linux/filesystem
+   linux/processes
+   linux/hw_serial
+   linux/hw_udev
 
 .. toctree::
    :maxdepth: 1
    :caption: Linux containers
 
-   docker
-   docker_usage
-   openvz
+   container/docker
+   container/docker_usage
+   container/openvz
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sysadmin
+   :caption: Programming
 
-   sysadmin/apt
-   sysadmin/filesystem
-   sysadmin/processes
-   sysadmin/hw_serial
-   sysadmin/hw_udev
+   programming/java
+   programming/php
+   programming/python
+   programming/shell
