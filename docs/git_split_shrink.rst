@@ -1,5 +1,5 @@
-Split and shrink a repository
-=============================
+Git - Split and shrink a repository
+===================================
 
 Ever wanted to split a repository into several parts, yet keep the
 corresponding commit histories?
