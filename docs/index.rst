@@ -1,7 +1,7 @@
 Developus Apparatus
 ===================
 
-An assortment of notes and utilities for software development
+An assortment of notes and utilities for software development and systems administration.
 
 .. image:: ../img/wtfpl-badge-2.png
    :target: http://www.wtfpl.net/txt/copying/
@@ -38,3 +38,11 @@ An assortment of notes and utilities for software development
    docker
    docker_usage
    openvz
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sysadmin
+
+   sysadmin/apt
+   sysadmin/filesystem
+   sysadmin/processes
