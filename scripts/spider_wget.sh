@@ -1,6 +1,7 @@
-#§/bin/bash
+#!/bin/bash
 #
-# Check if a file needs to be downloaded
+# Check if a file needs to be (re-)downloaded by comparing local
+# and remote checksums
 url=$1
 
 dl=1

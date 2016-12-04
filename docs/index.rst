@@ -1,22 +1,40 @@
-.. Developus Apparatus documentation master file, created by
-   sphinx-quickstart on Sun Dec  4 18:32:20 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Developus Apparatus
+===================
 
-Welcome to Developus Apparatus's documentation!
-===============================================
+An assortment of notes and utilities for software development
 
-Contents:
+.. image:: ../img/wtfpl-badge-2.png
+   :target: http://www.wtfpl.net/txt/copying/
+      :alt: WTFPL
 
 .. toctree::
    :maxdepth: 2
+   :caption: Programming
 
+   java
+   php
+   python
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Community & Collaboration
 
-Indices and tables
-==================
+   continuous_delivery
+   git
+   git_split_shrink
+   git_ten_commandments
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: Linux
 
+   environment
+   shell
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Linux containers
+
+   docker
+   docker_usage
+   openvz
