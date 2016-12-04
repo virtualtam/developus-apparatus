@@ -8,7 +8,7 @@ An assortment of notes and utilities for software development and systems admini
       :alt: WTFPL
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Programming
 
    java
@@ -16,7 +16,7 @@ An assortment of notes and utilities for software development and systems admini
    python
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Community & Collaboration
 
    continuous_delivery
@@ -25,14 +25,14 @@ An assortment of notes and utilities for software development and systems admini
    git_ten_commandments
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Linux
 
    environment
    shell
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Linux containers
 
    docker
@@ -40,7 +40,7 @@ An assortment of notes and utilities for software development and systems admini
    openvz
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Sysadmin
 
    sysadmin/apt
