@@ -28,6 +28,7 @@ An assortment of notes and utilities for software development and systems admini
    linux/hw_serial
    linux/hw_udev
    linux/ssh
+   linux/systemd
 
 .. toctree::
    :maxdepth: 1
