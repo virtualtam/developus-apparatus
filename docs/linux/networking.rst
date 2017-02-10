@@ -45,6 +45,27 @@ dig
    ;; WHEN: lun. déc. 05 19:36:05 CET 2016
    ;; MSG SIZE  rcvd: 45
 
+.. code-block:: bash
+
+   $ dig +nocmd +noquestion +nostats archlinux.org
+
+   ;; Got answer:
+   ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25601
+   ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+   ;; OPT PSEUDOSECTION:
+   ; EDNS: version: 0, flags:; udp: 1280
+   ;; ANSWER SECTION:
+   archlinux.org.       1365    IN      A       138.201.81.199
+
+.. code-block:: bash
+
+   $ dig +short debian.org
+
+   140.211.15.34
+   130.89.148.14
+   128.31.0.62
+
 nslookup
 ~~~~~~~~
 
