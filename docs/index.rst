@@ -54,6 +54,7 @@ An assortment of notes and utilities for software development and systems admini
 
    programming/c_cpp
    programming/java
+   programming/lisp
    programming/php
    programming/python
    programming/shell
