@@ -18,6 +18,13 @@ An assortment of notes and utilities for software development and systems admini
 
 .. toctree::
    :maxdepth: 1
+   :caption: Embedded Linux
+
+   embedded/microcontrollers
+   embedded/yocto
+
+.. toctree::
+   :maxdepth: 1
    :caption: Linux
 
    linux/apt
@@ -45,6 +52,7 @@ An assortment of notes and utilities for software development and systems admini
    :maxdepth: 1
    :caption: Programming
 
+   programming/c_cpp
    programming/java
    programming/php
    programming/python
