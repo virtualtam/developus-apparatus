@@ -36,6 +36,8 @@ An assortment of notes and utilities for software development and systems admini
 
    container/docker
    container/docker_usage
+   container/lxc
+   container/lxc_debian
    container/openvz
 
 .. toctree::
