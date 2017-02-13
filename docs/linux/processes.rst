@@ -68,6 +68,18 @@ ps - list by process name
      PID TTY          TIME CMD
    18667 pts/3    00:00:01 python3
 
+pgrep - find processes by name
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. code-block:: bash
+
+   $ pgrep -a watchdog
+
+   10 watchdog/0
+   11 watchdog/1
+   16 watchdog/2
+   21 watchdog/3
+
 Zombies and defuncts
 --------------------
 
