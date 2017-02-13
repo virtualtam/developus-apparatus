@@ -4,6 +4,11 @@ C / C++
 C
 -
 
+* `The C Book <http://publications.gbdirect.co.uk/c_book/>`_
+* `Understanding ELF using readelf and objdump
+  <http://www.linuxforums.org/articles/understanding-elf-using-readelf-and-objdump_125.html>`_
+* IOCCC, `The International Obfuscated C Code Contest <http://ioccc.org/>`_
+
 C++
 ---
 
@@ -32,7 +37,7 @@ Tools & QA
 CMake
 ~~~~~
 
-* `CMake tutorial <https://github.com/TheErk/CMake-tutorial>`_
+* `CMake tutorial <https://github.com/TheErk/CMake-tutorial>`_, Beamer presentation & source code
 * `What is an out-of-source build? <https://cmake.org/Wiki/CMake_FAQ#What_is_an_.22out-of-source.22_build.3F>`_
 * `CMake and out-of-source build <http://cprieto.com/posts/2016/10/cmake-out-of-source-build.html>`_
 * `CMake output/build directory
@@ -60,7 +65,7 @@ Lint
 Package management
 ~~~~~~~~~~~~~~~~~~
 
-* `#include <https://inqlude.org/>`_, The Qt library archive
+* `#inqlude <https://inqlude.org/>`_, The Qt library archive
 * `Conan <https://www.conan.io/>`_
 
 Travis
