@@ -34,6 +34,7 @@ An assortment of notes and utilities for software development and systems admini
    linux/processes
    linux/hw_serial
    linux/hw_udev
+   linux/postgres
    linux/ssh
    linux/systemd
    linux/x11
