@@ -43,6 +43,7 @@ An assortment of notes and utilities for software development and systems admini
    :maxdepth: 1
    :caption: Linux containers
 
+   container/api
    container/docker
    container/docker_usage
    container/lxc

@@ -7,12 +7,6 @@ About
 * `List of all manpages <https://linuxcontainers.org/lxc/manpages/>`_
 * `Standard image repository <https://images.linuxcontainers.org/images/>`_
 * `Getting started with LXC <https://www.flockport.com/lxc-guide/>`_, 2014, Flockport
-* `Linux Control Groups v1 <https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt>`_
-* `Linux Control Groups v2
-  <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/cgroup-v2.txt>`_
-
-  * FOSDEM 2017 `talk <https://www.youtube.com/watch?v=XKwBtDhZ2Gc>`_ and
-    `slides <https://chrisdown.name/talks/cgroupv2/cgroupv2-fosdem.pdf>`_
 
 Linux templates
 ~~~~~~~~~~~~~~~
