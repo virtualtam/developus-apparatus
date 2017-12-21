@@ -60,3 +60,9 @@ An assortment of notes and utilities for software development and systems admini
    programming/php
    programming/python
    programming/shell
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Data Mining
+
+   elk
